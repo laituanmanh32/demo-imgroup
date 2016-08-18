@@ -1,0 +1,6 @@
+- Unstaged
+- Staged
+- wait to commit
+- commited
+
+commited : edited -> staged
