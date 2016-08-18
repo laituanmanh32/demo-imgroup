@@ -1,1 +1,1 @@
-- line 1: It's beautiful day!
+- line 1: It's beautiful day! :)
